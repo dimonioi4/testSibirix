@@ -1,4 +1,4 @@
-# Отчет о тестирования     
+# Отчет о тестировании 
 
 * Ознакомление с [тестируемым ресурсом](http://test-form.sibirix.ru/)
 * Составление [документации](https://docs.google.com/spreadsheets/d/1Fu28xYm6nZsfsf5P-QTjYjV3i1Z7IC6XFaZ91a0aK38/edit?usp=sharing)
